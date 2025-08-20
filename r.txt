@@ -5,13 +5,16 @@ radharc
 raibh
 raidió
 ramhar
+rang
 rásúr
+rath
 réaltaí
 réaltbhuíon
 réamhaisnéis
 reilig
 reiligiún
 réiteoir
+rí
 riachtanach
 riamh
 riarann
@@ -46,5 +49,5 @@ rug
 rugadh
 rugbaí
 rúisis
+rún
 rúnaí
-

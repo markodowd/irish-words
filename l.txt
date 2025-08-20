@@ -9,8 +9,10 @@ lacha
 lachan
 laethanta
 laghad
+lámh
 lampa
 lán
+lann
 laoch
 láthair
 le
@@ -29,6 +31,7 @@ lear
 léarscáil
 leat
 leath
+leathar
 leatsa
 léi
 leibhéal
@@ -36,6 +39,7 @@ leictreachas
 léigh
 léim
 léimid
+léimneoir
 léine
 léinn
 léinte
@@ -56,6 +60,7 @@ liom
 líomóid
 liomsa
 líonra
+liopa
 liosta
 lítir
 litreach
@@ -64,6 +69,7 @@ litríocht
 lofa
 lón
 londain
+lorga
 lú
 luaidhe
 luain
@@ -77,4 +83,3 @@ lúnasa
 lúthchleas
 lúthchleasaí
 lúthchleasaithe
-

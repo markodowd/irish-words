@@ -32,6 +32,7 @@ ollmhór
 oraibh
 orainn
 oráiste
+ordóg
 ordú
 orm
 ort
@@ -42,4 +43,3 @@ osclaím
 osclaímid
 osclaíonn
 óstán
-

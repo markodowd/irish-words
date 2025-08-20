@@ -1,5 +1,5 @@
-á
 a
+á
 abairt
 ábalta
 abhaile
@@ -21,6 +21,7 @@ againn
 agam
 agat
 agus
+aibigh
 aibreáin
 aibreán
 aici
@@ -42,6 +43,7 @@ airde
 airgead
 airgeadra
 airgintín
+áiri
 áirithe
 ais
 aisteoir
@@ -56,6 +58,7 @@ aithreacha
 aláram
 albain
 alla
+allas
 am
 amach
 amaideach
@@ -105,4 +108,3 @@ athair
 áthas
 athraím
 athraíonn
-

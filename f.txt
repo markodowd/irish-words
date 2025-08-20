@@ -48,11 +48,13 @@ fhreagair
 fhuar
 fhuinneog
 fia
+fiacail
 fiacla
 fiche
 filleann
 fillim
 fíon
+fionn
 fíor
 fir
 fírinneach
@@ -83,7 +85,7 @@ fuair
 fuath
 fúibh
 fúinn
+fuinneog
 fúithi
 fúm
 fút
-

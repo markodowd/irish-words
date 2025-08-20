@@ -8,6 +8,7 @@ peann
 pearsanta
 peata
 peil
+peilbheas
 peileadóir
 péire
 péitseog
@@ -27,6 +28,7 @@ phortaingéil
 phost
 phroifisiún
 phroifisiúnta
+pianó
 piobar
 píosa
 pitseámaí
@@ -46,6 +48,7 @@ polainne
 portach
 portaigh
 portán
+pós
 pósadh
 post
 póstaí
@@ -57,4 +60,3 @@ proifisiún
 proifisiúnta
 púdar
 punt
-

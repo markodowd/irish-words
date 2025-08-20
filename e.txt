@@ -12,6 +12,7 @@ ealaíontóir
 eanáir
 earrach
 éasca
+easna
 eatarthu
 éifeachtach
 éifeachtacha
@@ -20,6 +21,7 @@ eile
 eilifint
 eilifintí
 éilímid
+eipideirm
 éire
 éireann
 éireannach
@@ -36,4 +38,3 @@ eochracha
 eoraip
 eorpach
 euro
-

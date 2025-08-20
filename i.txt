@@ -1,5 +1,5 @@
-í
 i
+í
 iad
 iarracht
 iasc
@@ -46,6 +46,7 @@ ionaibh
 ionainn
 ionam
 ionat
+ionga
 iontach
 iontacha
 iontu
@@ -61,4 +62,3 @@ itheann
 ithim
 ithimid
 iúil
-

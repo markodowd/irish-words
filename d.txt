@@ -29,6 +29,7 @@ dála
 dalta
 daltaí
 damhán
+damhsa
 daoibh
 daoine
 daonna
@@ -51,6 +52,7 @@ déanaim
 déanaimid
 déanann
 déantar
+dearc
 déardaoin
 dearfach
 dearg
@@ -113,8 +115,8 @@ díreach
 dleathach
 dlíodóir
 dlíodóirí
-dó
 do
+dó
 dochreidte
 dochtúir
 dodhéanta
@@ -133,6 +135,8 @@ dorcha
 dorchadas
 dóthain
 droch
+dromlach
+druidim
 dtagtá
 dteach
 dteastaíonn
@@ -159,4 +163,3 @@ dúnaim
 dúnann
 dúntar
 dúntar
-

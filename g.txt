@@ -3,8 +3,10 @@ gach
 gaeilge
 gaeilgeoir
 gael
+Gaillimhe
 gaineamh
 gan
+gaosán
 gcabhraíonn
 gcailleann
 gcarr
@@ -31,6 +33,7 @@ gcúinne
 gculaith
 gcumann
 gcúrsa
+géag
 geal
 geansaí
 gearmáinis
@@ -52,6 +55,7 @@ ghoideadh
 ghoidtí
 ghruaig
 giomnáisiam
+giotár 
 glan
 glanaimid
 glanann
@@ -60,11 +64,14 @@ glaoim
 glaonn
 glas
 glasraí
+gleann
 gloine
 gluaisrothar
 glúine
 gnó
 go
+goile
+goirt
 gorm
 gorta
 gortaíonn
@@ -76,7 +83,7 @@ greannmhar
 gréasáin
 griandó
 gruaig
+gualainn
 gúna
 gúnaí
 gur
-

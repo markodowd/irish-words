@@ -30,6 +30,7 @@ meaisín
 meán
 meangadh
 meánn
+méar
 meiriceánach
 meitheamh
 meitreo
@@ -51,6 +52,7 @@ mheithimh
 mhí
 mhic
 mhilseán
+mhór
 mhothaigh
 mhothaíonn
 mhúinteoir
@@ -69,11 +71,15 @@ mínítear
 míniú
 míonna
 mná
-mó
 mo
+mó
+mona
+monaíocht
 moncaí
 mór
+mórphianó
 mothaíonn
+muc
 muiceoil
 muid
 múineadh
@@ -81,4 +87,4 @@ muinín
 múinteoir
 múinteoirí
 muire
-
+murnán

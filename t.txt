@@ -15,6 +15,7 @@ táillí
 táim
 táimid
 táirge
+tairne
 taispeántas
 taithí
 taitníonn
@@ -27,13 +28,16 @@ taontas
 taos
 tar
 tart
+te
 teachta
 teaghlach
+teanga
 téann
 teastaíonn
 teicneolaíocht
 teideal
 téigh
+teileafón
 teilifís
 téimid
 thabharfadh
@@ -101,6 +105,7 @@ triomach
 tríú
 triúr
 troideann
+troigh
 troithe
 tromluí
 tseirbhís
@@ -124,4 +129,3 @@ tuismitheoirí
 turtair
 turtar
 tús
-
